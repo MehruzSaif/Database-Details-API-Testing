@@ -1,0 +1,1 @@
+newman run MehruzSaif.postman_collection.json -e MehruzSaif.postman_environment.json
